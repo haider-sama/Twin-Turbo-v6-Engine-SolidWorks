@@ -36,6 +36,7 @@ The system demonstrates **mechanical design principles**, CAD modeling skills, a
 ## 📂 Project Structure
 
 📁 Assemblies/ 
+<br />
 └── SolidWorks assembly files of engine components  
 
 📁 Drawings/  
@@ -46,7 +47,6 @@ The system demonstrates **mechanical design principles**, CAD modeling skills, a
 
 📁 Project Root/  
 ├── 2025-01-08 11_15_51-Greenshot.png # Screenshot of assembled engine  
-<br />
 └── README.md # Project documentation  
 
 ---
